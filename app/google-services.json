@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "977100484849",
+    "firebase_url": "https://food-spin.firebaseio.com",
+    "project_id": "food-spin",
+    "storage_bucket": "food-spin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977100484849:android:df1436fb349ed3c74fb950",
+        "android_client_info": {
+          "package_name": "com.example.foodspin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977100484849-859bfg72a3ol7gn5a05bqga1vu7el83h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodspin",
+            "certificate_hash": "de4c0bebf8687d8b5aea8f6d49023500c7097a6c"
+          }
+        },
+        {
+          "client_id": "977100484849-5l34n8kr3n9cmkqsn2vsvb1p23r18jb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU7-QRZr6pEGF8PUrsgS1VAI5QtTBoERU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977100484849-5l34n8kr3n9cmkqsn2vsvb1p23r18jb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977100484849:android:b66243af09b06adc4fb950",
+        "android_client_info": {
+          "package_name": "com.zurmati.lazylist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977100484849-5l34n8kr3n9cmkqsn2vsvb1p23r18jb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU7-QRZr6pEGF8PUrsgS1VAI5QtTBoERU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977100484849-5l34n8kr3n9cmkqsn2vsvb1p23r18jb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
